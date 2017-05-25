@@ -1,5 +1,5 @@
-## don't starve toghter
-You can use the [editor on GitHub](https://github.com/CHNimitz/my-first-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## E3 2017 pre-view report
+E3 2017 are upon us. Let us introduce that wht you should know before the most anticipate event started. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
